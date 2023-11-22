@@ -13,3 +13,7 @@ first commit test-2 branch
 
 second commit test-2 branch
 
+first commit fix-1 branch
+
+second commit fix-1 branch
+
